@@ -9,5 +9,5 @@ Go show some truth who's boss!
 */
 
 const ifChuckSaysSo = () => {
-  return 1 === '1';
+  return 'A' === 'a';
 }
